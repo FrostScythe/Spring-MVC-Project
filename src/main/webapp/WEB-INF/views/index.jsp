@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Homepage</title>
+    <title>Home Page</title>
 
     <style>
         body {
@@ -74,7 +74,8 @@
     <div class="hero">
         <div>
             <h1>Welcome to My Website</h1>
-            <p>Build something awesome 🚀</p>
+            <p>Build something awesome</p>
+            <h1>Name is ${name}</h1>
         </div>
     </div>
 
